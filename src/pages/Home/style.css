@@ -1,6 +1,5 @@
 .content {
     background-color: rgb(9, 66, 66);
-    /* color: rgb(59, 211, 211); */
     width: 50%;
     margin: auto;
     position: absolute;
@@ -23,6 +22,7 @@
 
 .content p {
     color: #fff;
+    padding: 10px;
 }
 
 .flex {
